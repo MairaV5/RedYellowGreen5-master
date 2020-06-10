@@ -108,6 +108,7 @@ namespace RedYellowGreen
             RedLight.BackColor = Color.Gray;
             YellowLight.BackColor = Color.Gray;
             GreenLight.BackColor = Color.Gray;
+            this.BackColor = Color.Beige;
         }
     }
 }
